@@ -1,12 +1,6 @@
 ### Hi there 👋
-<a href="https://github.com/BenSunWhiteBoard/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BenSunWhiteBoard&count_private=true&show_icons=true&theme=radical&hide=issues" />
-</a>
-<a href="https://github.com/BenSunWhiteBoard/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenSunWhiteBoard&hide=jupyter%20notebook&show_icons=true&theme=radical&layout=compact" />
-</a>
-
-
+| <a href="https://github.com/BenSunWhiteBoard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BenSunWhiteBoard&count_private=true&show_icons=true&theme=radical&hide=issues" /></a> | <a href="https://github.com/BenSunWhiteBoard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenSunWhiteBoard&hide=jupyter%20notebook&show_icons=true&theme=radical&layout=compact" /></a> |
+| ------------- | ------------- |
 
 <!--
 **BenSunWhiteBoard/BenSunWhiteBoard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
